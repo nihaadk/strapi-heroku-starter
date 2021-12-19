@@ -1,4 +1,3 @@
-const parse = require("pg-connection-string").parse;
 const path = require('path');
 
 module.exports = ({ env }) => ({
